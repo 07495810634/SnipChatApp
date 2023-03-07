@@ -7,7 +7,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import com.google.android.material.textfield.TextInputEditText;
-
+// this is the main activity
 public class MainActivity extends AppCompatActivity {
 
     private TextInputEditText editTextEmail,editTextPassword;
