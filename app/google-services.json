@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899581610431",
+    "project_id": "snipchatapp-c6ea5",
+    "storage_bucket": "snipchatapp-c6ea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899581610431:android:ce42268cb860a7c42df90a",
+        "android_client_info": {
+          "package_name": "c2222648live.tees.ac.uk.snipchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899581610431-ur1koshou4dke6mjj6be9jqc57qtjrbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUtNegbOWz-tgs3yjwbWcPyHaooEXKfwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899581610431-ur1koshou4dke6mjj6be9jqc57qtjrbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
