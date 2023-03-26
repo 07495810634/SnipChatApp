@@ -18,6 +18,7 @@
         app:srcCompat="@drawable/imagekey" />
 
     <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputLayout5"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="50dp"
@@ -42,12 +43,13 @@
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="50dp"
-        android:text="RESET"
+        android:text="RESET "
         android:textSize="24sp"
         app:iconTint="@color/purple_700"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textInputLayout5" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
